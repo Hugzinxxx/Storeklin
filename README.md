@@ -39,10 +39,3 @@ StoreKlin adalah platform terpercaya untuk jual beli akun gaming premium. Dengan
   - `.htaccess` untuk pengaturan server (jika diperlukan)
 
 ---
-
-## ⚙️ Instalasi & Penggunaan
-
-1. **Clone repository**  
-   ```bash
-   git clone https://github.com/username/storeklin.git
-   cd storeklin
